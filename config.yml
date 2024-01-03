@@ -1,0 +1,9 @@
+# Jekyll main configuration file
+# See https://jekyllrb.com/docs/configuration/ to further customize this file
+# Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
+
+title: gabriellaradke
+
+url: https://gabriellaradke.github.io
+
+theme: jekyll-theme-minimal
