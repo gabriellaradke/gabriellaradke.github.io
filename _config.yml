@@ -2,10 +2,12 @@
 # See https://jekyllrb.com/docs/configuration/ to further customize this file
 # Defaults settings https://jekyllrb.com/docs/configuration/#default-configuration
 
-title: gabriellaradke
+title: [Gabriella Radke's homepage]
 
 url: https://gabriellaradke.github.io/
 
 theme: jekyll-theme-minimal
 
 google_site_verification: yNSm1-yXjwPAf4RBuY8-Z1UaYZTyHmMtkYh11AeFj5Y
+
+google_analytics: G-P83K10G4SM
